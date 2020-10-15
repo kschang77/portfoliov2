@@ -8,3 +8,4 @@ And yes, It is meant to have a vaguely Star Trek pallette. These colors are from
 
 Page transition code originally created by [Marcelo Ribeiro](https://codepen.io/marcelo-ribeiro/pen/xOOKpO), adapted by Kasey Chang and modified for six panels AND text swapping. 
 
+View it at https://kschang77.github.io/portfoliov2/
